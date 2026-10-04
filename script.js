@@ -1,4 +1,3 @@
-```javascript
 const menuToggle = document.getElementById("menu-toggle");
 const navLinks = document.getElementById("nav-links");
 
@@ -24,4 +23,3 @@ links.forEach((link) => {
         menuToggle.setAttribute("aria-label", "Open navigation menu");
     });
 });
-```
